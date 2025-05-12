@@ -1,7 +1,9 @@
 ---
 draft: false
-title: ' Diner'
+title: ' '
 description: |
+  'Diner'
+
   Taken in Chicago, IL.
 year: 2020
 images:
