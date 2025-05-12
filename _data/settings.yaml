@@ -21,10 +21,10 @@ metadata:
   site_icon_png: ''
   site_ga4_id: ''
   seo:
-    site_title: Halide - Jamstack portfolio theme
+    site_title: Dom35mm Photography
     site_description: >-
-      A customizable, minimalist portfolio website designed for photographers
-      and still image creators.
+      My portfolio website for my film & digital photography, showcasing some of
+      my favorite shots from over the years!
     no_index: false
 theme:
   theme_layout:
@@ -58,4 +58,4 @@ images:
     quality: 100
 i18n:
   site_language: en
-  site_social_title: Instagram
+  site_social_title: GitHub
