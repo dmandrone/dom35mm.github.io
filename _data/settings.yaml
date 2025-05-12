@@ -14,10 +14,8 @@ metadata:
   site_title: Dom35mm Photographgy
   site_subtitle_1: My Photography
   site_subtitle_2: 'Based in Atlanta, GA'
-  site_description: >
-    Halide is a customizable Jamstack portfolio website theme designed for
-    photographers and still image creators. Read the docs at
-    [github.com/danurbanowicz/halide](https://github.com/danurbanowicz/halide)
+  site_description: |
+    I'm a 26 year old film & digital photographer based in Atlanta, GA.
   site_email: blog@cloudburst.anonaddy.com
   site_social_url: 'https://instagram.com/dom35mm'
   site_icon_svg: /assets/uploads/favicon.svg
