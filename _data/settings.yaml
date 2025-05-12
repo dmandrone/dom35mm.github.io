@@ -11,9 +11,9 @@ config:
     "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"
 metadata:
   site_url: 'https://dom35mm.com'
-  site_title: Dom35mm Photographgy
-  site_subtitle_1: My Photography
-  site_subtitle_2: 'Based in Atlanta, GA'
+  site_title: Dom35mm Photography
+  site_subtitle_1: ''
+  site_subtitle_2: ''
   site_description: |
     I'm a 26 year old film & digital photographer based in Atlanta, GA.
   site_email: blog@cloudburst.anonaddy.com
