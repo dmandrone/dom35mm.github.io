@@ -1,6 +1,6 @@
 ---
 layout: layouts/base.njk
-permalink: "project/{{ title | slug }}/index.html"
+permalink: "{%- if pagination.pageNumber == 0 -%}/blog/{%- else -%}/blog/{{- pagination.pageNumber -}}/{%- endif -%}"
 section: project
 ---
 <article>
