@@ -8,8 +8,10 @@ images:
     caption: Photo of a skeleton with neon lights in the background.
 date: 2025-05-13T04:08:39.695Z
 seo:
-  title: Dom35mm - The Arch
-  description: 'Photo of the Gateway Arch in St. Louis, MO (2021).'
+  title: Dom35mm - Skeleton
+  description: >-
+    Photo of a skeleton with neon lights in the background at the City Museum in
+    St. Louis, MO (2021).
 position: 14
 ---
 
