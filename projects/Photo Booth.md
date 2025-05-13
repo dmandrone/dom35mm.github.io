@@ -4,8 +4,8 @@ title: Photo Booth
 description: ''
 year: 2025
 images:
-  - src: /assets/uploads/21.jpg
-    caption: Photo of 3 palm trees
+  - src: /assets/uploads/FXT50399.JPG
+    caption: 'Photo of a photo booth area in a food hall in Atlanta, GA (2025).'
 date: 2025-05-13T04:08:39.695Z
 seo:
   title: Dom35mm - Photo Booth
