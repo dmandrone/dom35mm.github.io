@@ -6,7 +6,9 @@ description: |
 year: 2020
 images:
   - src: /assets/uploads/000419250005.jpg
-    caption: 'Taken in Chicago, IL. Shot on Olympus Stylus Epic DLX with Kodak Gold 200.'
+    caption: >-
+      Taken in Chicago, IL. Shot on an Olympus Stylus Epic DLX with Kodak Gold
+      200.
   - src: /assets/uploads/000419250006.jpg
     caption: >-
       Taken in Chicago, IL. Shot on an Olympus Stylus Epic DLX with Kodak Gold
