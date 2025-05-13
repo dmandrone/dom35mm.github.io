@@ -9,7 +9,7 @@ images:
 date: 2025-05-13T04:08:39.695Z
 seo:
   title: Dom35mm - Golden
-  description: 'Pictures from a government building in San Francisco, CA (2020).'
+  description: 'Picture of a government building in San Francisco, CA (2020).'
 position: 1
 ---
 
