@@ -8,8 +8,10 @@ images:
     caption: Photo of the moon far in the distance.
 date: 2025-05-13T04:08:39.695Z
 seo:
-  title: Dom35mm - Stooling
-  description: 'Photo of Chloe sitting on a stool in Nashville, TN (2021).'
+  title: Dom35mm - Moon
+  description: >-
+    Photo of a city street with a moon far in the distance in Columbia, MO
+    (2019).
 position: 11
 ---
 
