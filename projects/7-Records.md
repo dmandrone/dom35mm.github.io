@@ -8,8 +8,8 @@ images:
     caption: 'Photo of a record store in Columbia, MO.'
 date: 2025-05-13T04:08:39.695Z
 seo:
-  title: Dom35mm - Arcade
-  description: 'Photo of an arcade with a lens filtrer on taken in Atlanta, GA (2025).'
+  title: Dom35mm - Records
+  description: 'Photo of a record store taken in Columbia, MO (2019).'
 position: 7
 ---
 
