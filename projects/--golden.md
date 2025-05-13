@@ -1,9 +1,9 @@
 ---
 draft: false
-title: '  Golden'
+title: Palm
 description: |
-  **'Golden'**
-year: 2020
+  **'Palm'**
+year: 2019
 images:
   - src: /assets/uploads/21.jpg
     caption: Photo of 3 palm trees
@@ -14,4 +14,4 @@ seo:
 position: 2
 ---
 
-Taken in San Francisco, CA. Shot on an Olympus Stylus Epic DLX with Kodak Ultramax 400.
+Taken in Siesta Key, FL.. Shot on a Canon AE-1 Program with Kodak Colorplus 200.
