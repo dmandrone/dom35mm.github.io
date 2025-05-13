@@ -10,8 +10,10 @@ images:
       scaffold.
 date: 2025-05-13T04:08:39.695Z
 seo:
-  title: Dom35mm - No Parking
-  description: 'Photo of a ''No Parking'' sign in a parking lot in Columbia, MO (2019).'
+  title: Dom35mm - Scaffolding
+  description: >-
+    Photo of a sidwalk covered by construction scaffolding in Chicago, IL
+    (2019).
 position: 16
 ---
 
