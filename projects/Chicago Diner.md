@@ -2,16 +2,12 @@
 draft: false
 title: ' '
 description: |
-  '**Diner**'
-
-  Taken in Chicago, IL.
-
-  Shot on Olympus Stylus Epic DLX with Kodak Gold 200.
+  '**Diner'**
 year: 2020
 images:
-  - src: /assets/uploads/000419250006.jpg
   - src: /assets/uploads/000419250005.jpg
     caption: ''
+  - src: /assets/uploads/000419250006.jpg
 date: 2023-11-14T10:33:12.776Z
 seo:
   title: Dom35mm - Diner
