@@ -10,7 +10,7 @@ date: 2025-05-13T04:08:39.695Z
 seo:
   title: Dom35mm - No Parking
   description: 'Photo of a ''No Parking'' sign in a parking lot in Columbia, MO (2019).'
-position: 14
+position: 15
 ---
 
 Taken in Columbia, MO with an Olympus Stylus Epic DLX on Kodak Portra 400.
