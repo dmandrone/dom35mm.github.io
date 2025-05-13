@@ -1,17 +1,16 @@
 ---
 draft: false
-title: Palm
+title: Forgotten
 description: ''
 year: 2019
 images:
   - src: /assets/uploads/000122100015.jpg
     caption: Photo of broken down bikes
-date: '2025-05-13T04:08:39.695Z'
+date: 2025-05-13T04:08:39.695Z
 seo:
   title: Dom35mm - Palm
   description: 'Photo of palm treess in Siesta Key, FL (2019).'
-position: 2
+position: 3
 ---
 
-
-Taken in Siesta Key, FL.. Shot on a Canon AE-1 Program with Kodak Colorplus 200.
+Taken in Columbia, M.. Shot on a Canon AE-1 Program with Kodak Colorplus 200.
