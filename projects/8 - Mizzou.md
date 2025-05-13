@@ -8,8 +8,8 @@ images:
     caption: 'Photo of Jesse Hall in Columbia, MO.'
 date: 2025-05-13T04:08:39.695Z
 seo:
-  title: Dom35mm - Records
-  description: 'Photo of a record store taken in Columbia, MO (2019).'
+  title: Dom35mm - Mizzou
+  description: 'Photo of Jesse Hall on the Mizzou campus in Columbia, MO (2019).'
 position: 8
 ---
 
