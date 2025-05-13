@@ -5,7 +5,9 @@ description: ''
 year: 2019
 images:
   - src: /assets/uploads/000122090015.jpg
-    caption: Photo of a sidewalk in Chicago that is covered by a contstruction awning.
+    caption: >-
+      Photo of a sidewalk in Chicago that is covered by a contstruction
+      scaffold.
 date: 2025-05-13T04:08:39.695Z
 seo:
   title: Dom35mm - No Parking
