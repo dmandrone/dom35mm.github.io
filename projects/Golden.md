@@ -1,8 +1,7 @@
 ---
 draft: false
 title: '  Golden'
-description: |
-  **'Golden'**
+description: ''
 year: 2020
 images:
   - src: /assets/uploads/000521310027.jpg
