@@ -13,4 +13,4 @@ seo:
 position: 12
 ---
 
-Taken in Columbia, MO with a Canon AE-1Program on Kodak Portra 400.
+Taken in Columbia, MO with a Canon AE-1 Program on Kodak Portra 400.
