@@ -8,8 +8,8 @@ images:
     caption: Photo of a rusty truck in a front yard.
 date: 2025-05-13T04:08:39.695Z
 seo:
-  title: Dom35mm - Stooling
-  description: 'Photo of Chloe sitting on a stool in Nashville, TN (2021).'
+  title: Dom35mm - Truck
+  description: 'Photo of a rusty truck in a front yard in Stockbridge, GA (2021).'
 position: 10
 ---
 
