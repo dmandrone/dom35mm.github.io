@@ -4,7 +4,7 @@ title: Stooling
 description: ''
 year: 2021
 images:
-  - src: /assets/uploads/COPY2.jpg
+  - src: ''
     caption: Photo of a woman sitting on a stool.
 date: 2025-05-13T04:08:39.695Z
 seo:
