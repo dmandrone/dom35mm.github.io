@@ -13,4 +13,4 @@ seo:
 position: 10
 ---
 
-Taken in Atlanta, GA with an Olympus Stylus Epic DLX on Kodak Gold 200.
+Taken in Stockbridge, GA with an Olympus Stylus Epic DLX on Kodak Gold 200.
