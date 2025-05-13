@@ -8,10 +8,8 @@ images:
     caption: Photo of a warehouse building.
 date: 2025-05-13T04:08:39.695Z
 seo:
-  title: Dom35mm - Moon
-  description: >-
-    Photo of a city street with a moon far in the distance in Columbia, MO
-    (2019).
+  title: Dom35mm - Warehouse
+  description: 'Photo of a colorful warehouse in Columbia, MO (2019).'
 position: 12
 ---
 
