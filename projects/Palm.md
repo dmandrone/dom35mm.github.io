@@ -13,4 +13,4 @@ seo:
 position: 2
 ---
 
-Taken in Siesta Key, FL.. Shot on a Canon AE-1 Program with Kodak Colorplus 200.
+Taken in Siesta Key, FL. Shot on a Canon AE-1 Program with Kodak Colorplus 200.
