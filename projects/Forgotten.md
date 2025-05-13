@@ -1,8 +1,8 @@
 ---
 draft: false
-title: Forgotten
+title: Arcade
 description: ''
-year: 2019
+year: 2025
 images:
   - src: /assets/uploads/FXT50522.JPG
     caption: Photo of an arcade with a lens filter on.
@@ -10,7 +10,7 @@ date: 2025-05-13T04:08:39.695Z
 seo:
   title: Dom35mm - Forgotten
   description: 'Photo of some broken down bikes in Columbia, MO (2019).'
-position: 6
+position: 7
 ---
 
-Taken in Columbia, M.. Shot on a Canon AE-1 Program with Kodak Colorplus 200.
+Taken in Atlanta, GA. Shot on a Fuji X-T5 with a lens filter on.
