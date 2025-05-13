@@ -1,17 +1,16 @@
 ---
 draft: false
-title: Warehouse
+title: The Arch
 description: ''
-year: 2019
+year: 2021
 images:
   - src: /assets/uploads/000203200033.jpg
     caption: 'Photo of the Gateway Arch in St. Louis, MO.'
-date: '2025-05-13T04:08:39.695Z'
+date: 2025-05-13T04:08:39.695Z
 seo:
   title: Dom35mm - Warehouse
   description: 'Photo of a colorful warehouse in Columbia, MO (2019).'
-position: 12
+position: 13
 ---
 
-
-Taken in Columbia, MO with a Canon AE-1Program on Kodak Portra 400.
+Taken @ the Gateway Arch in St. Louis, MO with an Olympus Stylus Epic DLX on Kodak Ultramax 400.
