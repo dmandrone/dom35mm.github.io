@@ -9,7 +9,7 @@ images:
 date: 2025-05-13T04:08:39.695Z
 seo:
   title: Dom35mm - Palm
-  description: 'Photo of palm treess in Siesta Key, FL (2019).'
+  description: 'Photo of palm trees in Siesta Key, FL (2019).'
 position: 2
 ---
 
