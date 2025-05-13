@@ -9,16 +9,12 @@ images:
       Taken in Chicago, IL. Shot on an Olympus Stylus Epic DLX with Kodak Gold
       200.
   - src: /assets/uploads/000419250006.jpg
-    caption: >-
-      Taken in Chicago, IL. Shot on an Olympus Stylus Epic DLX with Kodak Gold
-      200.
-date: '2023-11-14T10:33:12.776Z'
+    caption: ''
+date: 2023-11-14T10:33:12.776Z
 seo:
   title: Dom35mm - Diner
   description: 'Pictures from a diner in Chicago, IL (2020).'
 position: 0
 ---
-
-
 
 Taken in Chicago, IL. Shot on an Olympus Stylus Epic DLX with Kodak Gold 200.
