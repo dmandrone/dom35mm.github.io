@@ -8,8 +8,8 @@ images:
     caption: 'Photo of the Gateway Arch in St. Louis, MO.'
 date: 2025-05-13T04:08:39.695Z
 seo:
-  title: Dom35mm - Warehouse
-  description: 'Photo of a colorful warehouse in Columbia, MO (2019).'
+  title: Dom35mm - The Arch
+  description: 'Photo of the Gateway Arch in St. Louis, MO (2021).'
 position: 13
 ---
 
