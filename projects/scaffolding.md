@@ -8,10 +8,8 @@ images:
     caption: 'Photo of skyscrapers in Seattle, WA.'
 date: 2025-05-13T04:08:39.695Z
 seo:
-  title: Dom35mm - Scaffolding
-  description: >-
-    Photo of a sidwalk covered by construction scaffolding in Chicago, IL
-    (2019).
+  title: Dom35mm - Towering
+  description: 'Photo of a couple skyscrapers in Seattle, WA (2020).'
 position: 16
 ---
 
