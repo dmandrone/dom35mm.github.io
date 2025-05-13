@@ -1,6 +1,6 @@
 ---
 draft: false
-title: ' Test 1'
+title: ' '
 description: |
   **'Diner'**
 year: 2020
