@@ -8,10 +8,8 @@ images:
     caption: Photo of a No Parking sign on a brick wall.
 date: 2025-05-13T04:08:39.695Z
 seo:
-  title: Dom35mm - Skeleton
-  description: >-
-    Photo of a skeleton with neon lights in the background at the City Museum in
-    St. Louis, MO (2021).
+  title: Dom35mm - No Parking
+  description: 'Photo of a ''No Parking'' sign in a parking lot in Columbia, MO (2019).'
 position: 14
 ---
 
