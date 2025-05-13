@@ -9,8 +9,8 @@ images:
     caption: Photo of 3 palm trees
 date: 2025-05-13T04:08:39.695Z
 seo:
-  title: Dom35mm - Golden
-  description: 'Pictures from a government building in San Francisco, CA (2020).'
+  title: Dom35mm - Palm
+  description: 'Photo of palm treess in Siesta Key, FL (2019).'
 position: 2
 ---
 
