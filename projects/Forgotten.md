@@ -9,7 +9,7 @@ images:
 date: 2025-05-13T04:08:39.695Z
 seo:
   title: Dom35mm - Forgotten
-  description: 'Photo of some broken down banks in Columbia, MO (2019).'
+  description: 'Photo of some broken down bikes in Columbia, MO (2019).'
 position: 3
 ---
 
