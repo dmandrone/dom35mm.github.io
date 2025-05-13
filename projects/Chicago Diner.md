@@ -1,8 +1,7 @@
 ---
 draft: false
 title: ' Diner'
-description: |
-  **'Diner'**
+description: ''
 year: 2020
 images:
   - src: /assets/uploads/000419250005.jpg
