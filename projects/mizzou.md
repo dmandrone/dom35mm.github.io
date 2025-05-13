@@ -8,8 +8,8 @@ images:
     caption: Photo of a woman sitting on a stool.
 date: 2025-05-13T04:08:39.695Z
 seo:
-  title: Dom35mm - Mizzou
-  description: 'Photo of Jesse Hall on the Mizzou campus in Columbia, MO (2019).'
+  title: Dom35mm - Stooling
+  description: 'Photo of Chloe sitting on a stool in Nashville, TN (2021).'
 position: 9
 ---
 
