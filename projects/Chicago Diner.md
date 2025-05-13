@@ -16,4 +16,4 @@ seo:
 position: 0
 ---
 
-Taken in Chicago, IL. Shot on Olympus Stylus Epic DLX with Kodak Gold 200.
+Taken in Chicago, IL. Shot on an Olympus Stylus Epic DLX with Kodak Gold 200.
