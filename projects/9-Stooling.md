@@ -13,4 +13,4 @@ seo:
 position: 9
 ---
 
-Taken in Stockbridge, GA with an Olympus Stylus Epic DLX on Kodak Gold 200.
+Taken in Nashville, TN with an Olympus Stylus Epic DLX on Kodak Gold 200.
