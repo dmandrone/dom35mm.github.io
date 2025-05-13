@@ -1,6 +1,6 @@
 ---
 draft: false
-title: ' Test 2'
+title: '  '
 description: |
   **'Golden'**
 year: 2020
