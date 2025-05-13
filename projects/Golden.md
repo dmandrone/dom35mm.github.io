@@ -10,6 +10,7 @@ images:
 date: 2025-05-13T04:08:39.695Z
 seo:
   title: Dom35mm - Golden
+  description: 'Pictures from a government building in San Francisco, CA (2020).'
 ---
 
 Taken in San Francisco, CA. Shot on an Olympus Stylus Epic DLX with Kodak Ultramax 400.
