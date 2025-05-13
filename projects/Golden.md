@@ -1,6 +1,6 @@
 ---
 draft: false
-title: '  '
+title: '  Golden'
 description: |
   **'Golden'**
 year: 2020
