@@ -52,7 +52,7 @@ images:
     enabled: false
   webp:
     enabled: true
-    quality: 100
+    quality: 90
   jpeg:
     enabled: true
     quality: 90
