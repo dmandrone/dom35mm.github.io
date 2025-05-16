@@ -55,7 +55,7 @@ images:
     quality: 100
   jpeg:
     enabled: true
-    quality: 100
+    quality: 90
 i18n:
   site_language: en
   site_social_title: Instagram
