@@ -46,7 +46,7 @@ theme:
     item_output_limit: 100
     transition_duration: 300
     show_project_year: true
-    show_project_grid_titles: true
+    show_project_grid_titles: false
 images:
   avif:
     enabled: false
