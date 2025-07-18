@@ -12,7 +12,7 @@ date: 2025-07-18T19:59:31.530Z
 seo:
   title: Dom35mm - Traitor
   description: 'Photo of a poster of a traitor at Little 5 Points in Atlanta, GA.'
-position: 16
+position: 20
 ---
 
 Taken at Little 5 Points in Atlanta, GA with a Fuji X-T5.
