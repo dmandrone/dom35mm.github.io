@@ -15,4 +15,4 @@ seo:
 position: 20
 ---
 
-Taken at Little 5 Points in Atlanta, GA with a Fuji X-T5.
+Taken at Little 5 Points in Atlanta, GA with a Fujifilm X-T5.
