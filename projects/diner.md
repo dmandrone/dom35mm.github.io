@@ -3,6 +3,8 @@ draft: false
 title: Diner
 description: ''
 year: 2020
+images:
+  - src: /assets/uploads/000419250005.jpg
 date: 2025-07-18T16:50:14.546Z
 seo:
   title: Dom35mm - Diner
