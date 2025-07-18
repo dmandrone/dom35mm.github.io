@@ -9,6 +9,7 @@ date: 2025-07-18T16:17:54.696Z
 seo:
   title: Dom35mm - Warehouse
   description: 'Photo of a warehouse taken in Columbia, MO (2019).'
+position: 7
 ---
 
 Taken in Columbia, MO with a Canon AE-1 Program on Kodak Portra 400.
