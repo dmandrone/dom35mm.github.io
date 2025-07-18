@@ -1,7 +1,11 @@
 ---
 draft: false
 title: Truck
+description: ''
 year: 2021
+images:
+  - src: /assets/uploads/000203190033.jpg
+    caption: 'Photo of a truck in Stockbridge, GA.'
 date: 2025-07-18T16:30:03.322Z
 seo:
   title: Dom35mm - Truck
