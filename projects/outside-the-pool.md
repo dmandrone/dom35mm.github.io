@@ -17,4 +17,4 @@ seo:
 position: 16
 ---
 
-Taken in Atlanta, GA with a Fujifilm X-T5.
+Taken at Piedmont Park in Atlanta, GA with a Fujifilm X-T5.
