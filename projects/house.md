@@ -2,6 +2,9 @@
 draft: false
 title: House
 description: ''
+images:
+  - src: /assets/uploads/000405450009.jpg
+    caption: 'Photo of a house in Columbia, MO.'
 date: 2025-07-18T17:39:02.103Z
 seo:
   title: Dom35mm - House
