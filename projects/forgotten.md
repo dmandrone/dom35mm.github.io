@@ -13,3 +13,4 @@ seo:
 position: 6
 ---
 
+Taken in Columbia, MO with a Canon AE-1 Program on Kodak Colorplus 200.
