@@ -11,3 +11,4 @@ seo:
   description: 'Photo of a warehouse taken in Columbia, MO (2019).'
 ---
 
+Taken in Columbia, MO with a Canon AE-1 Program on Kodak Portra 400.
