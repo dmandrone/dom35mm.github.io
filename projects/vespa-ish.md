@@ -3,6 +3,9 @@ draft: false
 title: Vespa-ish
 description: ''
 year: 2025
+images:
+  - src: /assets/uploads/FXT50941.JPG
+    caption: 'Photo of chloe by a Vespa clone in Atlanta, GA.'
 date: 2025-07-18T19:15:44.573Z
 seo:
   title: Dom35mm - Vespa-ish
