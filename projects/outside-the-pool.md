@@ -10,7 +10,7 @@ images:
       Atlanta, GA.
 date: 2025-07-18T19:41:47.412Z
 seo:
-  title: Dom35mm - Outside the Pool
+  title: Dom35mm - Outside The Pool
   description: >-
     Photo of a restroom area outside of the public pool in Piedmont Park in
     Atlanta, GA (2025).
