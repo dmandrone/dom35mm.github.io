@@ -5,7 +5,7 @@ description: ''
 year: 2019
 images:
   - src: /assets/uploads/000122100015.jpg
-    caption: 'Photo of a forgotten bikes in Columbia, MO.'
+    caption: 'Photo of forgotten bikes in Columbia, MO.'
 date: 2025-07-18T16:12:40.726Z
 seo:
   title: Dom35mm - Forgotten
