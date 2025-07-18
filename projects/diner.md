@@ -4,9 +4,8 @@ title: Diner
 description: ''
 year: 2020
 images:
-  - src: /assets/uploads/000419250006.jpg
-    caption: 'Photo of a diner in Chicago, IL.'
   - src: /assets/uploads/000419250005.jpg
+    caption: 'Photo of a diner in Chicago, IL.'
 date: 2025-07-18T16:50:14.546Z
 seo:
   title: Dom35mm - Diner
