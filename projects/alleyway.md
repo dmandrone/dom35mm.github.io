@@ -7,6 +7,9 @@ images:
   - src: /assets/uploads/000405450007.jpg
     caption: 'Alleyway in Columbia, MO.'
 date: 2025-07-28T15:32:17.873Z
+seo:
+  title: Dom35mm - Alleyway
+  description: 'Photo of an alleyway in Columbia, MO (2019).'
 position: 15
 ---
 
