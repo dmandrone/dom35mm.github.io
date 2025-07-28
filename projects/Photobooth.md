@@ -4,8 +4,8 @@ title: Tree
 description: ''
 year: 2021
 images:
-  - src: /assets/uploads/FXT50399.JPG
-    caption: 'Photo of a photo booth area in a food hall in Atlanta, GA (2025).'
+  - src: /assets/uploads/000203190036.jpg
+    caption: 'Photo of a tree in Stockbridge, GA.'
 date: 2025-05-13T04:08:39.695Z
 seo:
   title: Dom35mm - Tree
