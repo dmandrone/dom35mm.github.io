@@ -10,7 +10,7 @@ date: 2025-07-28T14:42:30.827Z
 seo:
   title: Dom35mm - Tree
   description: 'Photo of a tree in Stockbridge, GA in 2021.'
-position: 15
+position: 0
 ---
 
 Taken in Stockbridge, GA. Shot on an Olympus Stylus Epic DLX with Kodak Gold 200.
