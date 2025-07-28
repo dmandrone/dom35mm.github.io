@@ -4,7 +4,7 @@ title: Tree
 description: ''
 year: 2021
 images:
-  - src: /assets/uploads/000203190036.jpg
+  - src: /assets/uploads/000203190007.jpg
     caption: 'Photo of a tree in Stockbridge, GA.'
 date: 2025-07-28T14:42:30.827Z
 seo:
