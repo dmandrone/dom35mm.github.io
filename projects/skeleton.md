@@ -1,16 +1,16 @@
 ---
 draft: false
-title: Skeleton
+title: Traffic
 description: ''
-year: 2021
+year: 2020
 images:
   - src: /assets/uploads/000419240026.jpg
     caption: 'Photo of traffic in Chicago, IL.'
 date: 2025-07-28T17:19:06.445Z
 seo:
-  title: Dom35mm - Skeleton
-  description: 'Photo of a skeleton at the City Museum in St. Louis, MO (2021).'
+  title: Dom35mm - Traffic
+  description: 'Photo of traffic in Chicago, IL (2020).'
 position: 45
 ---
 
-Taken at the City Museum in St. Louis, MO (2021) with an Olympus Stylus Epic DLX on Kodak Ultramax 400.
+Taken in Chicago, IL (2020) with a Canon AE-1 Program on Kodak Portra 400.
