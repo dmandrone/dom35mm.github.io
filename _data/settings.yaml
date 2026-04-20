@@ -5,14 +5,11 @@ config:
   image_width_sm: 1080
   image_width_md: 1800
   image_width_lg: 2400
-  font_stack_system: >-
-    -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu,
-    Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", Arial, sans-serif,
-    "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"
+  font_stack_system: '-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"'
 metadata:
   site_url: 'https://dom35mm.com'
   site_title: Dom35mm Photography
-  site_subtitle_1: 'Photographer (Film & Digital) based in Atlanta, GA'
+  site_subtitle_1: Photographer (Film & Digital)
   site_subtitle_2: ''
   site_description: ''
   site_email: dom35mm@cloudburst.anonaddy.com
@@ -22,9 +19,7 @@ metadata:
   site_ga4_id: ''
   seo:
     site_title: Dom35mm Photography
-    site_description: >-
-      My portfolio website for my film & digital photography, showcasing some of
-      my favorite shots from over the years!
+    site_description: 'My portfolio website for my film & digital photography, showcasing some of my favorite shots from over the years!'
     no_index: false
 theme:
   theme_layout:
